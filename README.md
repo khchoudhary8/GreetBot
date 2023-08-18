@@ -32,13 +32,7 @@ To implement the code on ROS, to enable continuous movement in the Robot with be
  
 
 
- <img src="https://github.com/khchoudhary8/GreetBot/assets/76583677/026583e9-cad2-4295-adee-204ccf50022f.jpg" width="180" height="700">    
-
-
-
-
-
-## Tech Stack: 
+ <img src="https://github.com/khchoudhary8/GreetBot/assets/76583677/026583e9-cad2-4295-adee-204ccf50022f.jpg" width="180" height="700">   ## Tech Stack: 
 Python
 OpenCV
 Image Processing
