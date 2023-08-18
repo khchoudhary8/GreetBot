@@ -38,6 +38,23 @@ To implement the code on ROS, to enable continuous movement in the Robot with be
 
 
 
+## Tech Stack: 
+Python
+OpenCV
+Image Processing
+Google Mediapipe
+Arduino
+OpenAI API
+Google speech to text
+
+
+#### Thank You,
+Yours faithfully,
+Kumar Harsh
+
+
+
+
  
 
 
