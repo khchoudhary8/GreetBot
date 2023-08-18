@@ -16,7 +16,7 @@ To implement the code on ROS, to enable continuous movement in the Robot with be
 ## Images (SNTI campus, Tata Steel TechEx'23 2-6th March 2023)
 
 
- <img src="https://github.com/khchoudhary8/GreetBot/assets/76583677/acbcb5da-4ab2-49e6-b344-127c425737e7.jpg" width="380" height="400"> 
+ <img src="https://github.com/khchoudhary8/GreetBot/assets/76583677/acbcb5da-4ab2-49e6-b344-127c425737e7.jpg" width="380" height="500"> 
 
 
 
