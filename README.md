@@ -25,7 +25,7 @@ To implement the code on ROS, to enable continuous movement in the Robot with be
 
  
 
- <img src="https://github.com/khchoudhary8/GreetBot/assets/76583677/12245464-5d20-4905-8170-9e6a791dbb6d.jpg" width="580" height="400"> 
+ <img src="https://github.com/khchoudhary8/GreetBot/assets/76583677/12245464-5d20-4905-8170-9e6a791dbb6d.jpg" width="580" height="350"> 
 
 
 
